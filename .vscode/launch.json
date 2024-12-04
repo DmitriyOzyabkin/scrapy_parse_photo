@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "type": "python",
+            "name": "debug runner.py",
+            "request": "launch",
+            "justMyCode": false,
+            "args": [],
+            "program": "d:\\GeekBrains\\1st_quarter\\Разметка данных\\Урок 6. Scrapy. Парсинг фото и файлов\\HomeWork\\unsplash_parsing\\runner.py"
+        },
+        {
+            "type": "python",
+            "name": "debug unsplashcom.py",
+            "request": "launch",
+            "justMyCode": false,
+            "args": [],
+            "program": "d:\\GeekBrains\\1st_quarter\\Разметка данных\\Урок 6. Scrapy. Парсинг фото и файлов\\HomeWork\\unsplash_parsing\\spiders\\unsplashcom.py"
+        }
+    ]
+}
